@@ -27,7 +27,7 @@ Clone this repo, and open Android Studio. Select 'Open an existing Android Studi
 # Running Requirements
 This application will run on Android 6.0 (Marshmellow).
 
-# documentation and resources used, etc.
+# Documentation and resources used
 I used the following when developing this application:
   * https://developer.android.com/index.html
   * https://stackoverflow.com/
